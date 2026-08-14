@@ -1,1 +1,0 @@
-Hello! this guide will help you install your own git, github,visual studio x code, ubuntu and lastly the virtual box!
